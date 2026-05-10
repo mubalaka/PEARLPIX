@@ -5,6 +5,12 @@
         "expirydate": "31-12-2029",
         "Allowoffline": true
     },
+{
+        "device_id": "0f1e47d86ba298fa",
+        "key": "enzo",
+        "expirydate": "31-12-2029",
+        "Allowoffline": true
+    },
     {
         "device_id": "e3875b9d12cbee88",
         "key": "Abdul",
